@@ -1,4 +1,4 @@
-# bankingApi
+# CNAB
 
 1. Crie seu ambiente virtual:
 ```bash
